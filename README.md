@@ -40,7 +40,7 @@ Plus la balle traverse d'ennemis, plus tu marques. Mais chaque tir te laisse vul
 
 ## Technique
 
-- **1 fichier HTML**, aucune dépendance (Google Fonts uniquement)
+- **1 fichier exe**, aucune dépendance (Google Fonts uniquement)
 - Canvas 2D + sons synthétisés en WebAudio — zéro asset externe
 - Résolution logique 960 × 600, mise à l'échelle auto, compatible HiDPI
 - Record sauvegardé en `localStorage`
