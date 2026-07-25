@@ -2,7 +2,7 @@
 
 > **Une seule balle. Tu la tires. Tu la ramasses. Tu recommences.**
 
-[![JOUER EN LIGNE](https://img.shields.io/badge/JOUER-GitHub_Pages-ffc233?style=for-the-badge)](https://TONPSEUDO.github.io/one-bullet/)
+[![JOUER EN LIGNE](https://img.shields.io/badge/JOUER-GitHub_Pages-ffc233?style=for-the-badge)](https://bloxpulse.github.io/one-bullet/)
 ![HTML5 Canvas](https://img.shields.io/badge/HTML5-Canvas-3fe3ff?style=for-the-badge)
 ![1 fichier](https://img.shields.io/badge/1_FICHIER-0_DEPENDANCE-ff3ec8?style=for-the-badge)
 ![Licence MIT](https://img.shields.io/badge/LICENCE-MIT-8f97bd?style=for-the-badge)
@@ -19,12 +19,6 @@ Un shooter d'arène en vue du dessus avec une contrainte radicale : **tu n'as qu
 - 🔥 **Combo** — chaque élimination rapprochée multiplie ton score
 
 Plus la balle traverse d'ennemis, plus tu marques. Mais chaque tir te laisse vulnérable.
-
-## Jouer
-
-👉 **[Version en ligne](https://TONPSEUDO.github.io/one-bullet/)**
-
-Ou en local : clone le repo et ouvre `index.html` dans ton navigateur. C'est tout — aucune dépendance, aucun build.
 
 ## Contrôles
 
